@@ -1,7 +1,10 @@
 # Backpack changelog
 
 ## UNRELEASED
-- _Nothing yet!_
+
+**Added:**
+- react-native-bpk-component-banner-alert:
+  - New component `BpkBannerAlert`, see http://backpack.prod.aws.skyscnr.com/components/native/banner-alerts/
 
 ## 2017-09-29 - Update tokens types value and add ttf icon font
 
