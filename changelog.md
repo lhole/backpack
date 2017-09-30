@@ -1,13 +1,16 @@
 # Backpack changelog
 
 ## UNRELEASED
-- _Nothing yet!_
+
+- react-native-bpk-component-animate-height:
+  - New component `BpkAnimateHeight`. See http://backpack.prod.aws.skyscnr.com/components/native/animate-height/
 
 ## 2017-10-01 - Add React Native Icon component and Theme Provider
 
 **Added:**
 - react-native-bpk-theming  0.0.1 => 1.0.0
  - New BpkThemeProvider utility.
+
 - react-native-bpk-component-icon 0.0.1 => 0.0.2
   - New component `BpkIcon`. See http://backpack.prod.aws.skyscnr.com/components/native/icons/
 
